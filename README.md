@@ -1,3 +1,4 @@
+![logo](https://github.com/wbsanjar/wbsanjar/blob/main/Code.jpg)
 <h1 align="center">Hi 👋, I'm MD Sanjar Nawaz</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
