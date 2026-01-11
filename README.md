@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MD Sanjar Nawaz</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="LS20260111215146.png">
+<img align="right" alt="coding" width="400" src="22b22287602523.5dbd29081561d.gif">
 
 
 - 🌱 I’m currently learning **C++, Web-Development**
