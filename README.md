@@ -1,4 +1,9 @@
-![logo](22b22287602523.5dbd29081561d.gif)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <h1 align="center">Hi 👋, I'm MD Sanjar </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
