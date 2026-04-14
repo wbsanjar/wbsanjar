@@ -1,42 +1,121 @@
-<!-- Snake Game Repo View -->
+<h2>हेलो (Hello) 🙏🏻,  I'm Md. Sanjar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Problem Solber ( I can deep dive into anything may be it c++ , java , rust , go or any language...)
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/A2_AnmolAgrawal)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmode/)](https://www.linkedin.com/in/anmol-agrawal-748389151/)
+![GitHub followers](https://img.shields.io/github/followers/anmode?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmode.github.io/personalportfolio/)](https://anmode.github.io/personalportfolio/)
 
-<h1 align="center">Hi 👋, I'm MD Sanjar </h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+### 📫 Like to meet me?
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
+<a href="https://grabtern.com/anmode/" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-- 🌱 I’m currently learning **Java, Web-Development**
+👇 Hit in your console or terminal to connect with me.
 
-- 📫 How to reach me **mdsanjar631@gmail.com**
+```bash
+npx sanjar
+```
+**👆 This command line tool can be found at [npx sanjar](https://github.com/anmode/npx_card)**
 
-- ⚡ Fun fact **I am Funny**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sanjar-nawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanjar-nawaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjar-nawaz-062b14328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjar-nawaz-062b14328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sanjar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanjar06" height="30" width="40" /></a>
-<a href="https://instagram.com/w3b.sanjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w3b.sanjar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/w3_sanjar0012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="w3_sanjar0012" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<br/>
-
-```rust
-fn my_approach() -> Philosophy {
-    match project_phase {
-        Early => "Make it work, make it right, then make it fast",
-        Growth => "Measure twice, optimize once",
-        Crisis => "Fix guarantees before adding servers",
-    }
-}
+```javascript
+const sanjar = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "startups", "UI/UX", "blockchain"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            other: [ "ruby", "rust"]
+        },
+        startups: {
+            skills: ["Management", "Innovative thinking", "Execution"]
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2025%20mins-blue)
+
+![Profile Views](<https://komarev.com/ghpvc/?username=anmode&label=Profile%20views&color=0e75b6&style=flat" alt="anmode">)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lakh%20lines%20of%20code-blue)
+
+[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anmode/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmode&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anmode/github-readme-stats)
+
+<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anmode)](https://github.com/anmode/github-readme-stats) -->
+
+<!-- **🐱 My GitHub Data** 
+
+> 🏆 36 Contributions in the Year 2023
+ > 
+> 📦 182.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 23 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning      120 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+🌆 Daytime      300 commits       █████████░░░░░░░░░░░░░░░░   38.36 % 
+🌃 Evening      246 commits       ███████░░░░░░░░░░░░░░░░░░   31.46 % 
+🌙 Night        116 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday         103 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Tuesday         85 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Wednesday      107 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Thursday       105 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Friday          94 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Saturday       124 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Sunday         164 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+
+
+ Last Updated on 09/02/2023 01:50:35 UTC
+<!--END_SECTION:waka-->
