@@ -4,8 +4,8 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/A2_AnmolAgrawal)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmode/)](https://www.linkedin.com/in/anmol-agrawal-748389151/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)]()
+[![Linkedin: anmol](https://img.shields.io/badge/-sanjar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmode/)](https://www.linkedin.com/in/sanjar-nawaz-062b14328/)
 ![GitHub followers](https://img.shields.io/github/followers/anmode?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmode.github.io/personalportfolio/)](https://anmode.github.io/personalportfolio/)
 
@@ -50,20 +50,6 @@ const sanjar = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2025%20mins-blue)
-
-![Profile Views](<https://komarev.com/ghpvc/?username=anmode&label=Profile%20views&color=0e75b6&style=flat" alt="anmode">)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lakh%20lines%20of%20code-blue)
-
-[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anmode/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmode&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anmode/github-readme-stats)
-
-<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anmode)](https://github.com/anmode/github-readme-stats) -->
-
-<!-- **🐱 My GitHub Data** 
 
 > 🏆 36 Contributions in the Year 2023
  > 
