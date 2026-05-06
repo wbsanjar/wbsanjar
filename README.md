@@ -1,4 +1,4 @@
-<h2>हेलो (Hello) 🙏🏻,  I'm Md. Sanjar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> I'm Md. Sanjar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Problem Solber ( I can deep dive into anything may be it c++ , java , rust , go or any language...)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
