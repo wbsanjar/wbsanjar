@@ -1,6 +1,6 @@
 <h2> I'm Md. Sanjar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Problem Solber ( I can deep dive into anything may be it c++ , java , rust , go or any language...)
+<p><em>Problem Solber ( I can deep dive into anything may be it c++ , java , javascript , go or any language...)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -27,15 +27,15 @@ npx sanjar
 ```javascript
 const sanjar = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "startups", "UI/UX", "blockchain"],
+    code: ["Javascript", "C", "Java", "C++"],
+    askMeAbout: ["web dev", "tech", "startups", "UI/UX", ],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
             other: [ "ruby", "rust"]
         },
         startups: {
-            skills: ["Management", "Innovative thinking", "Execution"]
+            skills: ["Management"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
@@ -51,40 +51,6 @@ const sanjar = {
 
 ---
 
-> 🏆 36 Contributions in the Year 2023
- > 
-> 📦 182.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning      120 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-🌆 Daytime      300 commits       █████████░░░░░░░░░░░░░░░░   38.36 % 
-🌃 Evening      246 commits       ███████░░░░░░░░░░░░░░░░░░   31.46 % 
-🌙 Night        116 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday         103 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Tuesday         85 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Wednesday      107 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Thursday       105 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Friday          94 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Saturday       124 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Sunday         164 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-
-```
-
-
-📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -103,5 +69,5 @@ No Activity Tracked This Week
 
 
 
- Last Updated on 09/02/2023 01:50:35 UTC
+ Last Updated on 09/02/2025 01:50:35 UTC
 <!--END_SECTION:waka-->
