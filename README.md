@@ -9,6 +9,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/anmode?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmode.github.io/personalportfolio/)](https://anmode.github.io/personalportfolio/)
 
+![](https://komarev.com/ghpvc/?username=wbsanjar&color=blue)
+
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
@@ -50,7 +52,6 @@ const sanjar = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
