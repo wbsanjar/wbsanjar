@@ -50,7 +50,7 @@ const sanjar = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -71,3 +71,5 @@ No Activity Tracked This Week
 
  Last Updated on 09/02/2025 01:50:35 UTC
 <!--END_SECTION:waka-->
+
+
